@@ -34,6 +34,7 @@ L'utilisateur utilise les flèches directionelles et valide avec la touche entr�
 
 ## Jeu
 Une fois une grille choisie, le jeu commence. Le joueur peut jouer en utilisant la souris pour tracer des segments entre les cases. Si le joueur satisfait les conditions pour toutes les cases numérotées, il gagne.
+Il peux aussi utiliser un solveur automatique avec le touche A. Il y d'autre options comme activer le mode graphique et accélérer ou décélérer l'affichage.
 
 <img src="https://user-images.githubusercontent.com/106891439/218289096-83226e8c-330f-4e73-adb0-439c37842e7b.png" width="35%" height="35%">
 
