@@ -3,6 +3,7 @@
 #### *Langage : Python*
 #### *Date : 2020*
 #### *Niveau : L1, S2*
+#### *Note obtenue : 20/20*
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/106891439/218289083-b8793a5b-a254-4d4e-a88c-9945c4d83bf7.png" width="50%" height="50%">
